@@ -1,0 +1,4 @@
+Scrapy==1.1.0
+tweepy==3.5.0
+Twisted==16.2.0
+bitly-api==0.3
