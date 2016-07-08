@@ -2,7 +2,7 @@
 Automatic Tweeting for Voting Proposals for PyCon India 2016
 ============================================================
 
-This Script will automatically tweet the Talk proposal details along with link for voting.I would recommend this script should run in cloud instance.
+This Script will automatically tweet the Talk proposal details along with link for voting.I would recommend this script should run in cloud instance. it will create result.json for database.
 
 - git clone https://github.com/surajnarwade/pycon-india-scripts.git
 
