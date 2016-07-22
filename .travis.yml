@@ -5,6 +5,6 @@ install:
           - pip install flake8
           - pip install python-coveralls
 script:
-          - flake8 retweet || (echo "Please run a linter and fix errors "; false)
+          - flake8 --filename=*.py voting_script/ retweeting_script/ || (echo "Please run a linter and fix errors "; false)
 after_success:
           - coveralls
