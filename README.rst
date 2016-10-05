@@ -1,3 +1,9 @@
+Travis Build
+========================
+.. image:: https://travis-ci.org/surajnarwade/pycon-india-scripts.svg?branch=master
+  :alt: Build status
+  :target: https://travis-ci.org/surajnarwade/pycon-india-scripts
+
 ============================================================
 Automating Social Media Volunteer Tasks For PyCon India 2016
 ============================================================
